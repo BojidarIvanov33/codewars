@@ -1,4 +1,5 @@
-// This is the first part. You can solve the second part here when you are done with this. Multiply two numbers! Simple!
+// This is the first part. You can solve the second part here when you are done
+// with this.Multiply two numbers! Simple!
 
 // The arguments are passed as strings.
 // The numbers may be way very large
