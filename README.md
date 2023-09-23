@@ -1,0 +1,3 @@
+# codewars
+I am rank 4 kyu (for now :D) in codewars
+Here is some of my solutions...
